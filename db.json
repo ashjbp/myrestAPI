@@ -1,9 +1,22 @@
 {
   "VENDOR": [
     {
-      "VENDOR_CODE": "VENFOR",
+      "VENDOR_CODE": "VENFOR 1",
       "VENDOR_NAME":"V001"
-    }],
+    },
+    {
+      "VENDOR_CODE": "VENFOR 2",
+      "VENDOR_NAME":"V002"
+    },
+    {
+      "VENDOR_CODE": "VENFOR 3",
+      "VENDOR_NAME":"V003"
+    },
+    {
+      "VENDOR_CODE": "VENFOR 4",
+      "VENDOR_NAME":"V004"
+    }    
+  ],
   "FSITEMVENDOR": [
     {
       "LINE_ID": 1,
