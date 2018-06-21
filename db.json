@@ -16,7 +16,11 @@
       "VENDOR_CODE": "VENFOR 4",
       "VENDOR_NAME":"V004"
     }
-    
+    ,
+    {
+      "VENDOR_CODE": "VENFOR 6",
+      "VENDOR_NAME":"V006"
+    }
   ],
   "FSITEMVENDOR": [
     {
