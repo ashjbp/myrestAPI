@@ -1,5 +1,10 @@
 {
-  "FSITEMREF_VENDOR": [
+  "VENDOR": [
+    {
+      "VENDOR_CODE": "VENFOR",
+      "VENDOR_NAME":"V001"
+    }],
+  "FSITEMVENDOR": [
     {
       "LINE_ID": 1,
       "R_OBJECT_TYPE": "VENDOR",
