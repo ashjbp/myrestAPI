@@ -1,10 +1,6 @@
 {
   "fsxml": {
     "FSFORMULA": {
-      "-DETAILTABLES": "FSFORMULAADJUSTINGRMULTI",
-      "-DETAILCODES": "INGRMULTI.A\\RMN_RPT",
-      "-KEYS": "MB-002732\\001;8422922",
-      "-KEYCOLUMNS": "formula_code;version",
       "FORMULA_CODE": "MB-002732",
       "VERSION": "001",
       "DESCRIPTION": "QWEWEWQEQWEWEE",
@@ -38,7 +34,6 @@
       "ERP_VERSION_CONTROL": "0",
       "C_LOG_NUMBER": "244669",
       "PRIMARY_IND": "0",
-      "MATERIALCHANGE": "0",
       "CALCSTATE": "2",
       "TOTAL_INGR_MASS": "100",
       "TOTAL_INGR_VOL": "70.12391268414369",
@@ -67,315 +62,246 @@
           "#text": "0.0533032968513341",
           "Unit": "G"
         },
-        "ASH_EXT": "0.0533032968513341",
         "Biot": {
           "#text": "0.370831944755224",
           "Unit": "MCG"
         },
-        "BIOTIN_EXT": "0.370831944755224",
-        "C18_x003A_2N6_UNIT": "1.9",
-        "C18_x003A_2N6_EXT": "1.9",
-        "C18_x003A_3N3_UNIT": "0.76",
-        "C18_x003A_3N3_EXT": "0.76",
-        "C20_x003A_4N6_UNIT": "0.072772",
-        "C20_x003A_4N6_EXT": "0.072772",
-        "C22_x003A_6N3_UNIT": "1.104",
-        "C22_x003A_6N3_EXT": "1.104",
         "Cho": {
           "#text": "0.609260815988577",
           "Unit": "G"
         },
-        "CARBOHYDRATE_EXT": "0.609260815988577",
         "Carn": {
           "#text": "0.031",
           "Unit": "MG"
         },
-        "CARNITINE_EXT": "0.031",
         "Cas_Pro": {
           "#text": "0.14958915",
           "Unit": "G"
         },
-        "CASEIN_EXT": "0.14958915",
         "UnCho": {
           "#text": "0.01397721",
           "Unit": "G"
         },
-        "CHO_UNKNOWN_EXT": "0.01397721",
         "Chol": {
           "#text": "5.7808205",
           "Unit": "MG"
         },
-        "CHOLINE_EXT": "5.7808205",
         "Disacch": {
           "#text": "0.461234071355171",
           "Unit": "G"
         },
-        "DISACCH_TOTAL_EXT": "0.461234071355171",
         "Cal": {
           "#text": "4.10217147028667",
           "Unit": "KCAL"
         },
-        "ENERGY_EXT": "4.10217147028667",
         "Fat": {
           "#text": "0.100081479690948",
           "Unit": "G"
         },
-        "FAT_EXT": "0.100081479690948",
         "Insol_Fib": {
           "#text": "0.00225",
           "Unit": "G"
         },
-        "FBR_DIETARY_INSOL_EXT": "0.00225",
         "Sol_Fib": {
           "#text": "0.0422875",
           "Unit": "G"
         },
-        "FBR_DIETARY_SOL_EXT": "0.0422875",
         "Folic": {
           "#text": "3.9200622810964",
           "Unit": "MCG"
         },
-        "FOLIC_ACID_TOTAL_EXT": "3.9200622810964",
         "Fruc": {
           "#text": "7.38694E-05",
           "Unit": "G"
         },
-        "FRUCTOSE_EXT": "7.38694E-05",
         "Galac": {
           "#text": "0",
           "Unit": "G"
         },
-        "GALACTOSE_EXT": "0",
         "Gluc": {
           "#text": "0.0014653414",
           "Unit": "G"
         },
-        "GLUCOSE_EXT": "0.0014653413999999997",
         "GOS": {
           "#text": "0",
           "Unit": "G"
         },
-        "GOS_EXT": "0",
         "H2O": {
           "#text": "0.0255958105769418",
           "Unit": "G"
         },
-        "H2O_EXT": "0.025595810576941803",
         "Inos": {
           "#text": "0.031",
           "Unit": "MG"
         },
-        "INOSITOL_EXT": "0.031",
         "Lactose": {
           "#text": "0.3030489",
           "Unit": "G"
         },
-        "LACTOSE_EXT": "0.3030489",
         "Malt": {
           "#text": "0.00696037135517078",
           "Unit": "G"
         },
-        "MALTOSE_EXT": "0.00696037135517078",
         "Al": {
           "#text": "0",
           "Unit": "MCG"
         },
-        "MIN_AL_EXT": "0",
         "Ca": {
           "#text": "7.12010549025281",
           "Unit": "MG"
         },
-        "MIN_CA_EXT": "7.12010549025281",
         "Cl": {
           "#text": "7.62408847405454",
           "Unit": "MG"
         },
-        "MIN_CL_EXT": "7.62408847405454",
         "Cr": {
           "#text": "0.00069",
           "Unit": "MCG"
         },
-        "MIN_CR_EXT": "0.00069",
         "Cu": {
           "#text": "3.8252924525",
           "Unit": "MCG"
         },
-        "MIN_CU_EXT": "3.8252924525",
         "Fe": {
           "#text": "0.15734029825",
           "Unit": "MG"
         },
-        "MIN_FE_EXT": "0.15734029825",
         "I": {
           "#text": "1.0277307",
           "Unit": "MCG"
         },
-        "MIN_I_EXT": "1.0277307",
         "K": {
           "#text": "10.4317124555325",
           "Unit": "MG"
         },
-        "MIN_K_EXT": "10.4317124555325",
         "Mg": {
           "#text": "1.09971378",
           "Unit": "MG"
         },
-        "MIN_MG_EXT": "1.09971378",
         "Mn": {
           "#text": "11.518443535",
           "Unit": "MCG"
         },
-        "MIN_MN_EXT": "11.518443535",
         "Mo": {
           "#text": "0",
           "Unit": "MCG"
         },
-        "MIN_MO_EXT": "0",
         "Na": {
           "#text": "3.2458576413331",
           "Unit": "MG"
         },
-        "MIN_NA_EXT": "3.2458576413331004",
         "P": {
           "#text": "6.29245448912905",
           "Unit": "MG"
         },
-        "MIN_P_EXT": "6.2924544891290513",
         "Se": {
           "#text": "0.26060988569",
           "Unit": "MCG"
         },
-        "MIN_SE_EXT": "0.26060988569",
         "Zn": {
           "#text": "0.097484677017",
           "Unit": "MG"
         },
-        "MIN_ZN_EXT": "0.097484677017",
         "Monosacch": {
           "#text": "0.0014653414",
           "Unit": "G"
         },
-        "MONOSACCH_TOTAL_EXT": "0.0014653413999999997",
         "Niac": {
           "#text": "107.244386722556",
           "Unit": "MCG"
         },
-        "NIACIN_EXT": "107.24438672255602",
         "AMP": {
           "#text": "0",
           "Unit": "MG"
         },
-        "NU_AMP_EXT": "0",
         "CMP": {
           "#text": "0",
           "Unit": "MG"
         },
-        "NU_CMP_EXT": "0",
         "GMP": {
           "#text": "0",
           "Unit": "MG"
         },
-        "NU_GMP_EXT": "0",
         "UMP": {
           "#text": "0",
           "Unit": "MG"
         },
-        "NU_UMP_EXT": "0",
         "PA": {
           "#text": "32.6288803647543",
           "Unit": "MCG"
         },
-        "PANT_ACID_EXT": "32.6288803647543",
         "PDX": {
           "#text": "0",
           "Unit": "G"
         },
-        "PDX_EXT": "0",
         "Poly": {
           "#text": "0",
           "Unit": "G"
         },
-        "POLYOLS_EXT": "0",
         "Sacch_Poly": {
           "#text": "0.062792392024",
           "Unit": "G"
         },
-        "POLYSACCH_EXT": "0.062792392024",
         "Prot": {
           "#text": "0.211765195722704",
           "Unit": "G"
         },
-        "PROTEIN_EXT": "0.211765195722704",
         "Starch": {
           "#text": "0",
           "Unit": "G"
         },
-        "STARCH_TOTAL_EXT": "0",
         "Sucr": {
           "#text": "0.1513243712",
           "Unit": "G"
         },
-        "SUCROSE_EXT": "0.1513243712",
         "Tau": {
           "#text": "0.07905",
           "Unit": "MG"
         },
-        "TAURINE_EXT": "0.07905",
         "B_Carotene": {
           "#text": "3.45E-05",
           "Unit": "MG"
         },
-        "VIT_A_B-CARO_EXT": "3.45E-05",
         "A": {
           "#text": "13.7183216595583",
           "Unit": "IU"
         },
-        "VIT_A_IU_TOTAL_EXT": "13.7183216595583",
         "B1": {
           "#text": "8.60438542417712",
           "Unit": "MCG"
         },
-        "VIT_B1_EXT": "8.60438542417712",
         "B12": {
           "#text": "0.0185465",
           "Unit": "MCG"
         },
-        "VIT_B12_EXT": "0.0185465",
         "B2": {
           "#text": "8.45735",
           "Unit": "MCG"
         },
-        "VIT_B2_EXT": "8.45735",
         "B6": {
           "#text": "12.7163701078005",
           "Unit": "MCG"
         },
-        "VIT_B6_EXT": "12.7163701078005",
         "C": {
           "#text": "0.718119247586238",
           "Unit": "MG"
         },
-        "VIT_C_EXT": "0.718119247586238",
         "D": {
           "#text": "0.5709777",
           "Unit": "IU"
         },
-        "VIT_D3_EXT": "0.5709777",
         "E": {
           "#text": "0.135078032448162",
           "Unit": "IU"
         },
-        "VIT_E_IU_TOTAL_EXT": "0.135078032448162",
         "K1": {
           "#text": "0.0109523",
           "Unit": "MCG"
         },
-        "VIT_K_EXT": "0.0109523",
         "Whey_Pro": {
           "#text": "0.03739815",
           "Unit": "G"
         },
-        "WHEY_EXT": "0.03739815",
         "SRVROW_ID": "2",
         "UOM_CODE_LABEL": "kilograms"
       },
@@ -401,192 +327,154 @@
           "#text": "0.078",
           "Unit": "G"
         },
-        "ASH_EXT": "0.02691",
         "Biot": {
           "#text": "0.3198",
           "Unit": "MCG"
         },
-        "BIOTIN_EXT": "0.110331",
         "Cho": {
           "#text": "0.557",
           "Unit": "G"
         },
-        "CARBOHYDRATE_EXT": "0.19216500000000003",
         "Cas_Pro": {
           "#text": "0.26107",
           "Unit": "G"
         },
-        "CASEIN_EXT": "0.090069150000000014",
         "UnCho": {
           "#text": "0.0178",
           "Unit": "G"
         },
-        "CHO_UNKNOWN_EXT": "0.006141",
         "Chol": {
           "#text": "1.3207",
           "Unit": "MG"
         },
-        "CHOLINE_EXT": "0.4556415",
         "Disacch": {
           "#text": "0.5385",
           "Unit": "G"
         },
-        "DISACCH_TOTAL_EXT": "0.18578250000000002",
         "Cal": {
           "#text": "3.61",
           "Unit": "KCAL"
         },
-        "ENERGY_EXT": "1.24545",
         "Fat": {
           "#text": "0.008",
           "Unit": "G"
         },
-        "FAT_EXT": "0.0027600000000000003",
         "Folic": {
           "#text": "0.1984",
           "Unit": "MCG"
         },
-        "FOLIC_ACID_TOTAL_EXT": "0.068448",
         "H2O": {
           "#text": "0.029",
           "Unit": "G"
         },
-        "H2O_EXT": "0.010005",
         "Lactose": {
           "#text": "0.5385",
           "Unit": "G"
         },
-        "LACTOSE_EXT": "0.18578250000000002",
         "Ca": {
           "#text": "12.03",
           "Unit": "MG"
         },
-        "MIN_CA_EXT": "4.1503499999999995",
         "Cl": {
           "#text": "11.1038",
           "Unit": "MG"
         },
-        "MIN_CL_EXT": "3.8308109999999997",
         "Cr": {
           "#text": "0.002",
           "Unit": "MCG"
         },
-        "MIN_CR_EXT": "0.00069000000000000008",
         "Cu": {
           "#text": "0.4964",
           "Unit": "MCG"
         },
-        "MIN_CU_EXT": "0.17125800000000002",
         "Fe": {
           "#text": "0.0017",
           "Unit": "MG"
         },
-        "MIN_FE_EXT": "0.00058649999999999989",
         "I": {
           "#text": "1.9765",
           "Unit": "MCG"
         },
-        "MIN_I_EXT": "0.6818925",
         "K": {
           "#text": "15.02",
           "Unit": "MG"
         },
-        "MIN_K_EXT": "5.1819",
         "Mg": {
           "#text": "1.1561",
           "Unit": "MG"
         },
-        "MIN_MG_EXT": "0.3988545",
         "Mn": {
           "#text": "0.1883",
           "Unit": "MCG"
         },
-        "MIN_MN_EXT": "0.0649635",
         "Na": {
           "#text": "3.916",
           "Unit": "MG"
         },
-        "MIN_NA_EXT": "1.35102",
         "P": {
           "#text": "9.843",
           "Unit": "MG"
         },
-        "MIN_P_EXT": "3.395835",
         "Se": {
           "#text": "0.13",
           "Unit": "MCG"
         },
-        "MIN_SE_EXT": "0.04485",
         "Zn": {
           "#text": "0.036",
           "Unit": "MG"
         },
-        "MIN_ZN_EXT": "0.01242",
         "Monosacch": {
           "#text": "0",
           "Unit": "G"
         },
-        "MONOSACCH_TOTAL_EXT": "0",
         "Niac": {
           "#text": "6.8529",
           "Unit": "MCG"
         },
-        "NIACIN_EXT": "2.3642505",
         "PA": {
           "#text": "43.7161",
           "Unit": "MCG"
         },
-        "PANT_ACID_EXT": "15.0820545",
         "Prot": {
           "#text": "0.328",
           "Unit": "G"
         },
-        "PROTEIN_EXT": "0.11316000000000001",
         "B_Carotene": {
           "#text": "0.0001",
           "Unit": "MG"
         },
-        "VIT_A_B-CARO_EXT": "3.4500000000000005E-05",
         "A": {
           "#text": "0.503",
           "Unit": "IU"
         },
-        "VIT_A_IU_TOTAL_EXT": "0.173535",
         "B1": {
           "#text": "2.39",
           "Unit": "MCG"
         },
-        "VIT_B1_EXT": "0.82455",
         "B12": {
           "#text": "0.0277",
           "Unit": "MCG"
         },
-        "VIT_B12_EXT": "0.0095565",
         "B2": {
           "#text": "9.13",
           "Unit": "MCG"
         },
-        "VIT_B2_EXT": "3.1498500000000003",
         "B6": {
           "#text": "4.553",
           "Unit": "MCG"
         },
-        "VIT_B6_EXT": "1.5707849999999999",
         "C": {
           "#text": "0.1596",
           "Unit": "MG"
         },
-        "VIT_C_EXT": "0.055062",
         "E": {
           "#text": "0.0013",
           "Unit": "IU"
         },
-        "VIT_E_IU_TOTAL_EXT": "0.0004485",
         "Whey_Pro": {
           "#text": "0.06527",
           "Unit": "G"
         },
-        "WHEY_EXT": "0.022518149999999997",
         "SRVROW_ID": "3",
         "UOM_CODE_LABEL": "kilograms"
       }
