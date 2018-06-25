@@ -1,4 +1,4 @@
-{
+{"fsxml":{
   "FSFORMULA": {
     "UID":1,
     "FORMULA_CODE": "MB-002732",
@@ -36,7 +36,7 @@
     "PRIMARY_IND": "0",
     "CALCSTATE": "2",
     "TOTAL_INGR_MASS": "100",
-    "TOTAL_INGR_VOL": "70.12",
+    "TOTAL_INGR_VOL": "70.12391268414369",
     "SHOWSUBFORMULAS": "1",
     "EXPLODERAWMATERIALS": "0",
     "ALLITEMS": "0",
@@ -60,15 +60,15 @@
       "RELQTY_PCT": "0",
       "ID_HIERARCHY": "0.1",
       "Ash": {
-        "#text": "0.053",
+        "#text": "0.0533032968513341",
         "Unit": "G"
       },
       "Biot": {
-        "#text": "0.37",
+        "#text": "0.370831944755224",
         "Unit": "MCG"
       },
       "Cho": {
-        "#text": "0.60",
+        "#text": "0.609260815988577",
         "Unit": "G"
       },
       "Carn": {
@@ -76,27 +76,27 @@
         "Unit": "MG"
       },
       "Cas_Pro": {
-        "#text": "0.14",
+        "#text": "0.14958915",
         "Unit": "G"
       },
       "UnCho": {
-        "#text": "0.013",
+        "#text": "0.01397721",
         "Unit": "G"
       },
       "Chol": {
-        "#text": "5.78",
+        "#text": "5.7808205",
         "Unit": "MG"
       },
       "Disacch": {
-        "#text": "0.461",
+        "#text": "0.461234071355171",
         "Unit": "G"
       },
       "Cal": {
-        "#text": "4.10",
+        "#text": "4.10217147028667",
         "Unit": "KCAL"
       },
       "Fat": {
-        "#text": "0.10",
+        "#text": "0.100081479690948",
         "Unit": "G"
       },
       "Insol_Fib": {
@@ -128,7 +128,7 @@
         "Unit": "G"
       },
       "H2O": {
-        "#text": "0.025595",
+        "#text": "0.0255958105769418",
         "Unit": "G"
       },
       "Inos": {
@@ -140,7 +140,7 @@
         "Unit": "G"
       },
       "Malt": {
-        "#text": "0.0069",
+        "#text": "0.00696037135517078",
         "Unit": "G"
       },
       "Al": {
@@ -481,4 +481,5 @@
       "UOM_CODE_LABEL": "kilograms"
     }
   ]
+}
 }
